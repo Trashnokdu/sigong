@@ -1,14 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "sigong.jpg",
-      "type": "image"
-    }
-  ],
+  "short_name": "SIGONG",
+  "name": "시 공 조 아",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#16071e"
 }
